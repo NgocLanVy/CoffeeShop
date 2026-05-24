@@ -3,28 +3,56 @@
   "WorkspaceRootPath": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|d:\\l\u1EADp tr\u00ECnh web 1\\s1_s2_project _laptrinhweb1\\s1_s2_project _laptrinhweb1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|solutionrelative:s1_s2_project _laptrinhweb1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|d:\\l\u1EADp tr\u00ECnh web 1\\s1_s2_project _laptrinhweb1\\s1_s2_project _laptrinhweb1\\views\\products\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|solutionrelative:s1_s2_project _laptrinhweb1\\views\\products\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|d:\\l\u1EADp tr\u00ECnh web 1\\s1_s2_project _laptrinhweb1\\s1_s2_project _laptrinhweb1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|solutionrelative:s1_s2_project _laptrinhweb1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|d:\\l\u1EADp tr\u00ECnh web 1\\s1_s2_project _laptrinhweb1\\s1_s2_project _laptrinhweb1\\views\\shared\\_product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|solutionrelative:s1_s2_project _laptrinhweb1\\views\\shared\\_product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|d:\\l\u1EADp tr\u00ECnh web 1\\s1_s2_project _laptrinhweb1\\s1_s2_project _laptrinhweb1\\data\\coffeeshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|solutionrelative:s1_s2_project _laptrinhweb1\\data\\coffeeshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|d:\\l\u1EADp tr\u00ECnh web 1\\s1_s2_project _laptrinhweb1\\s1_s2_project _laptrinhweb1\\models\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|solutionrelative:s1_s2_project _laptrinhweb1\\models\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|d:\\l\u1EADp tr\u00ECnh web 1\\s1_s2_project _laptrinhweb1\\s1_s2_project _laptrinhweb1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|solutionrelative:s1_s2_project _laptrinhweb1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|d:\\l\u1EADp tr\u00ECnh web 1\\s1_s2_project _laptrinhweb1\\s1_s2_project _laptrinhweb1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|solutionrelative:s1_s2_project _laptrinhweb1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|d:\\l\u1EADp tr\u00ECnh web 1\\s1_s2_project _laptrinhweb1\\s1_s2_project _laptrinhweb1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|solutionrelative:s1_s2_project _laptrinhweb1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|d:\\l\u1EADp tr\u00ECnh web 1\\s1_s2_project _laptrinhweb1\\s1_s2_project _laptrinhweb1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|solutionrelative:s1_s2_project _laptrinhweb1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|d:\\l\u1EADp tr\u00ECnh web 1\\s1_s2_project _laptrinhweb1\\s1_s2_project _laptrinhweb1\\models\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|solutionrelative:s1_s2_project _laptrinhweb1\\models\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|d:\\l\u1EADp tr\u00ECnh web 1\\s1_s2_project _laptrinhweb1\\s1_s2_project _laptrinhweb1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|solutionrelative:s1_s2_project _laptrinhweb1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|d:\\l\u1EADp tr\u00ECnh web 1\\s1_s2_project _laptrinhweb1\\s1_s2_project _laptrinhweb1\\models\\services\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|solutionrelative:s1_s2_project _laptrinhweb1\\models\\services\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|d:\\l\u1EADp tr\u00ECnh web 1\\s1_s2_project _laptrinhweb1\\s1_s2_project _laptrinhweb1\\models\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|solutionrelative:s1_s2_project _laptrinhweb1\\models\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|d:\\l\u1EADp tr\u00ECnh web 1\\s1_s2_project _laptrinhweb1\\s1_s2_project _laptrinhweb1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|solutionrelative:s1_s2_project _laptrinhweb1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|d:\\l\u1EADp tr\u00ECnh web 1\\s1_s2_project _laptrinhweb1\\s1_s2_project _laptrinhweb1\\views\\products\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCFDAFA0-9456-4B71-A3C1-60E051596ACE}|S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1.csproj|solutionrelative:s1_s2_project _laptrinhweb1\\views\\products\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,80 +75,185 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "S1_S2_Project _LapTrinhWeb1\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "S1_S2_Project _LapTrinhWeb1\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T02:53:13.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Models\\Interfaces\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "S1_S2_Project _LapTrinhWeb1\\Models\\Interfaces\\IProductRepository.cs",
-              "ToolTip": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Models\\Interfaces\\IProductRepository.cs",
-              "RelativeToolTip": "S1_S2_Project _LapTrinhWeb1\\Models\\Interfaces\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T02:53:11.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "S1_S2_Project _LapTrinhWeb1\\Models\\Product.cs",
-              "ToolTip": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Models\\Product.cs",
-              "RelativeToolTip": "S1_S2_Project _LapTrinhWeb1\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T02:53:09.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Shop.cshtml",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Views\\Products\\Shop.cshtml",
               "RelativeDocumentMoniker": "S1_S2_Project _LapTrinhWeb1\\Views\\Products\\Shop.cshtml",
               "ToolTip": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Views\\Products\\Shop.cshtml",
               "RelativeToolTip": "S1_S2_Project _LapTrinhWeb1\\Views\\Products\\Shop.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-08T02:49:58.789Z",
+              "WhenOpened": "2026-05-24T08:43:07.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "S1_S2_Project _LapTrinhWeb1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "S1_S2_Project _LapTrinhWeb1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T08:42:54.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "_Product.cshtml",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Views\\Shared\\_Product.cshtml",
+              "RelativeDocumentMoniker": "S1_S2_Project _LapTrinhWeb1\\Views\\Shared\\_Product.cshtml",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Views\\Shared\\_Product.cshtml",
+              "RelativeToolTip": "S1_S2_Project _LapTrinhWeb1\\Views\\Shared\\_Product.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T08:50:36.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CoffeeshopDbContext.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Data\\CoffeeshopDbContext.cs",
               "RelativeDocumentMoniker": "S1_S2_Project _LapTrinhWeb1\\Data\\CoffeeshopDbContext.cs",
               "ToolTip": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Data\\CoffeeshopDbContext.cs",
               "RelativeToolTip": "S1_S2_Project _LapTrinhWeb1\\Data\\CoffeeshopDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T02:47:42.774Z",
+              "WhenOpened": "2026-05-24T08:43:59.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "S1_S2_Project _LapTrinhWeb1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "S1_S2_Project _LapTrinhWeb1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T08:43:16.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "S1_S2_Project _LapTrinhWeb1\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "S1_S2_Project _LapTrinhWeb1\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T08:44:13.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "S1_S2_Project _LapTrinhWeb1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "S1_S2_Project _LapTrinhWeb1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T08:44:09.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "S1_S2_Project _LapTrinhWeb1\\Models\\Product.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Models\\Product.cs",
+              "RelativeToolTip": "S1_S2_Project _LapTrinhWeb1\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T08:43:51.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Models\\Services\\ProductRepository.cs",
               "RelativeDocumentMoniker": "S1_S2_Project _LapTrinhWeb1\\Models\\Services\\ProductRepository.cs",
               "ToolTip": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Models\\Services\\ProductRepository.cs",
               "RelativeToolTip": "S1_S2_Project _LapTrinhWeb1\\Models\\Services\\ProductRepository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T02:45:31.904Z",
+              "WhenOpened": "2026-05-24T08:43:44.39Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Models\\Services\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "S1_S2_Project _LapTrinhWeb1\\Models\\Services\\ErrorViewModel.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Models\\Services\\ErrorViewModel.cs",
+              "RelativeToolTip": "S1_S2_Project _LapTrinhWeb1\\Models\\Services\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T08:43:38.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Models\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "S1_S2_Project _LapTrinhWeb1\\Models\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Models\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "S1_S2_Project _LapTrinhWeb1\\Models\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T08:43:32.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "S1_S2_Project _LapTrinhWeb1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "S1_S2_Project _LapTrinhWeb1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T08:43:23.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Views\\Products\\Detail.cshtml",
+              "RelativeDocumentMoniker": "S1_S2_Project _LapTrinhWeb1\\Views\\Products\\Detail.cshtml",
+              "ToolTip": "D:\\L\u1EADp tr\u00ECnh Web 1\\S1_S2_Project _LapTrinhWeb1\\S1_S2_Project _LapTrinhWeb1\\Views\\Products\\Detail.cshtml",
+              "RelativeToolTip": "S1_S2_Project _LapTrinhWeb1\\Views\\Products\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T08:43:03.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1473,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

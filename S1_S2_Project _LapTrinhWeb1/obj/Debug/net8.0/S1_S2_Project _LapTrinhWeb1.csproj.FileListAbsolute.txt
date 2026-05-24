@@ -7,28 +7,6 @@ D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\bi
 D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\bin\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.runtimeconfig.json
 D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\bin\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.dll
 D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\bin\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.pdb
-D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\rpswa.dswa.cache.json
-D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.GeneratedMSBuildEditorConfig.editorconfig
-D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.AssemblyInfoInputs.cache
-D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.AssemblyInfo.cs
-D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.csproj.CoreCompileInputs.cache
-D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.MvcApplicationPartsAssemblyInfo.cache
-D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.RazorAssemblyInfo.cache
-D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.RazorAssemblyInfo.cs
-D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\rjimswa.dswa.cache.json
-D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
-D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
-D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\scopedcss\bundle\S1_S2_Project _LapTrinhWeb1.styles.css
-D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\staticwebassets.build.json
-D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\staticwebassets.build.json.cache
-D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\staticwebassets.development.json
-D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.dll
-D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\refint\S1_S2_Project _LapTrinhWeb1.dll
-D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.pdb
-D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.genruntimeconfig.cache
-D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\ref\S1_S2_Project _LapTrinhWeb1.dll
 D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\bin\Debug\net8.0\Azure.Core.dll
 D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\bin\Debug\net8.0\Azure.Identity.dll
 D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\bin\Debug\net8.0\Humanizer.dll
@@ -134,4 +112,27 @@ D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\bi
 D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.csproj.AssemblyReference.cache
+D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.AssemblyInfoInputs.cache
+D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.AssemblyInfo.cs
+D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.csproj.CoreCompileInputs.cache
+D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.MvcApplicationPartsAssemblyInfo.cache
+D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.RazorAssemblyInfo.cache
+D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.RazorAssemblyInfo.cs
+D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.sourcelink.json
+D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\scopedcss\bundle\S1_S2_Project _LapTrinhWeb1.styles.css
+D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\staticwebassets.build.json
+D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\staticwebassets.development.json
+D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\S1_S2_Pr.7352EE61.Up2Date
+D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.dll
+D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\refint\S1_S2_Project _LapTrinhWeb1.dll
+D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.pdb
+D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\S1_S2_Project _LapTrinhWeb1.genruntimeconfig.cache
+D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\ref\S1_S2_Project _LapTrinhWeb1.dll
+D:\Lập trình Web 1\S1_S2_Project _LapTrinhWeb1\S1_S2_Project _LapTrinhWeb1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

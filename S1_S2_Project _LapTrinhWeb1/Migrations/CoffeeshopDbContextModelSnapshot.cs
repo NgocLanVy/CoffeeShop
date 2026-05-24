@@ -54,7 +54,7 @@ namespace S1_S2_Project__LapTrinhWeb1.Migrations
                             Id = 1,
                             Detail = "Name product",
                             ImageUrl = "https://insanelygoodrecipes.com/wp-content/uploads/2020/07/Cup-Of-Creamy-Coffee-1024x536.webp",
-                            IsTrendingProduct = false,
+                            IsTrendingProduct = true,
                             Name = "America",
                             Price = 25m
                         },
@@ -63,7 +63,7 @@ namespace S1_S2_Project__LapTrinhWeb1.Migrations
                             Id = 2,
                             Detail = "Vietnamese product",
                             ImageUrl = "https://insanelygoodrecipes.com/wp-content/uploads/2020/07/Cup-Of-Creamy-Coffee-1024x536.webp",
-                            IsTrendingProduct = false,
+                            IsTrendingProduct = true,
                             Name = "Vietnam",
                             Price = 20m
                         },
@@ -72,7 +72,7 @@ namespace S1_S2_Project__LapTrinhWeb1.Migrations
                             Id = 3,
                             Detail = "UK product",
                             ImageUrl = "https://insanelygoodrecipes.com/wp-content/uploads/2020/07/Cup-Of-Creamy-Coffee-1024x536.webp",
-                            IsTrendingProduct = false,
+                            IsTrendingProduct = true,
                             Name = "United Kingdom",
                             Price = 15m
                         },
