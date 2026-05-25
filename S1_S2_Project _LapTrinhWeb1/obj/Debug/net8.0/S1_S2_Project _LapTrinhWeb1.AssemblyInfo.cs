@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("S1_S2_Project _LapTrinhWeb1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87618afa3f22cffc195ced806b8c3cc34bd7df83")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71dcbbc8148f0b5b72248e48636366757299e902")]
 [assembly: System.Reflection.AssemblyProductAttribute("S1_S2_Project _LapTrinhWeb1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("S1_S2_Project _LapTrinhWeb1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
